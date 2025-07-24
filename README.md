@@ -88,3 +88,8 @@ npm run dev
 3.Enable Gemini API
 
 4.Copy the key and paste it in your .env file as GEMINI_API_KEY
+
+🚀 Live Demo
+Frontend (Vercel): https://your-frontend.vercel.app
+
+Backend (Render/Cyclic/Railway): https://your-backend-url.onrender.com
